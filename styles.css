@@ -102,7 +102,7 @@ hr {
 
 .btn-outline {
   display: inline-block;
-  background-color: #fff;
+  /* background-color: #fff; */
   color: #000;
   padding: 12px 34px;
   text-decoration: none;
