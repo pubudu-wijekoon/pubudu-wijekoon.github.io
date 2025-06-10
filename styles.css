@@ -17,7 +17,7 @@ body {
   grid-row: 1 / 2;
   text-align: center;
   min-height: 50vh;
-  background: url(images/myself.webp);
+  background: url(/images/myself.webp);
   background-size: cover;
   background-position: center;
 }
